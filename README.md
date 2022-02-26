@@ -88,7 +88,7 @@ https://www.kaggle.com/vik2012kvs/high-value-customers-identification
 
 # **SOLUTION STRATEGY**
 
-**************** IOT method**********************
+### IOT METHOD
 
 ### Input
 
@@ -141,7 +141,6 @@ https://www.kaggle.com/vik2012kvs/high-value-customers-identification
 
 # **PROJECT CYCLE**
 
-![crisp](references/crisp.png)
 
 ## `Step 00. Settings and Data Extraction`
 * Import of required libraries, packages and functions.
@@ -172,7 +171,7 @@ Creation of variables (features) relevant to solving the problem
 
 ## `Step 07. Hyperparameter Fine Tuning`
 * Testing different machine learning models and selecting the one with the best performance based on the chosen metrics (silhouette score)
-* Choosing the best values ​​for each parameter from the tested models that maximize performance
+* Choosing the best values for each parameter from the tested models that maximize performance
 
 ## `Step 08. Model Training`
 * Training the models with the best parameters found and measuring their performance
@@ -246,12 +245,12 @@ Total Customers that will be part of the Insiders group: `36` `(1.30 % of the ba
 
 **The following image explains the deployment architecture used to solve this problem**
 
-********************architecture******************************8
+![image](https://user-images.githubusercontent.com/85264359/155851902-5f2dcb15-42e4-4d50-b50f-5d02782407e5.png)
 
 ### **Dashboard**
 The following image shows the dashboard built in the Metabase tool. With this resource, the marketing team can monitor the performance of each cluster and see which clusters are closer to reaching the revenue target set for each group of customers.
 
-********************************dashboard***********************
+![image](https://user-images.githubusercontent.com/85264359/155851202-e9019dc0-3f60-4b3e-9d68-8f94281d946b.png)
 
 # **CONCLUSIONS**
 
