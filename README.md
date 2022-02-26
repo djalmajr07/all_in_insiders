@@ -70,6 +70,10 @@ of the total items purchased per customer
 therefore they will be treated separately.
 ```
 
+# *MIND MAP*
+![2022-02-03_07-39](https://user-images.githubusercontent.com/85264359/155852352-9a75edf5-6a37-4611-b681-8f47247965d3.png)
+
+
 ### **Dataset Description**
 
 |Feature | Definition |
