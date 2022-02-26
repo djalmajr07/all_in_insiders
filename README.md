@@ -31,7 +31,7 @@ As a result for this project, the delivery of a list of people eligible to parti
 * *What percentage of revenue contribution comes from Insiders?*
 * *What are the conditions for a person to be eligible for Insiders?*
 * *What are the conditions for a person to be removed from Insiders?*
-* 
+
 # **BUSINESS ASSUMPTIONS**
 
 ```
