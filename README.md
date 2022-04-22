@@ -70,7 +70,7 @@ therefore they will be treated separately.
 |InvoiceDate | date (day) on which the transaction was carried out |
 |UnitPrice | unit price of each product (item) |
 |CustomerID | unique identifier for each customer |
-|Country | name of the country where the customer resides | <br>
+|Country | name of the country where the customer resides | 
 
 **References:**
 https://www.kaggle.com/vik2012kvs/high-value-customers-identification
@@ -80,19 +80,19 @@ https://www.kaggle.com/vik2012kvs/high-value-customers-identification
 ### IOT METHOD
 
 ### Input
-- **Business problem**: segmentar os clientes em grupos e encontrar aqueles mais valiosos.
-- **Business questions**: descritos na seção anterior
-- **Dados disponíveis**: dataset de transações que ocorreram entre Nov-2016 e Dec-2017.
+- **Business problem**: segment customers into groups and find the most valuable ones.
+- **Business questions**: described in the previous section
+- **Data available**: dataset of transactions that took place between Nov-2016 and Dec-2017.
 
 ### Output
-- **Dashboard** com informações do grupo Insiders
-- **Relatório** com as respostas para as seguintes perguntas de negócio:
-* *Quem são as pessoas elegíveis para participar do programa de Insiders?*
-* *Quantos clientes farão parte do grupo?*
-* *Quais as principais características desses clientes?*
-* *Qual a porcentagem de contribuição do faturamento, vinda do Insiders?*
-* *Quais as condições para uma pessoa ser elegível ao Insiders?*
-* *Quais as condições para uma pessoa ser removida do Insiders?*
+- **Dashboard** with information from the Insiders group
+- **Report** with the answers to the following business questions:
+* *Who are the people eligible to participate in the Insiders program?*
+* *How many customers will be part of the group?*
+* *What are the main characteristics of these clients?*
+* *What percentage of revenue contribution comes from Insiders?*
+* *What are the conditions for a person to be eligible for Insiders?*
+* *What are the conditions for a person to be removed from Insiders?*
 
 ### Tasks
 > Who are the customers eligible to participate in the Insiders program?
