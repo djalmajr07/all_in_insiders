@@ -143,11 +143,11 @@ Creation of variables (features) relevant to solving the problem
 ## `Step 06. Feature Selection`
 * Selection of the most relevant features to train the models
 
-## `Step 07. Hyperparameter Fine Tuning`
+## `Step 07. Model Training`
 * Testing different machine learning models and selecting the one with the best performance based on the chosen metrics (silhouette score)
 * Choosing the best values for each parameter from the tested models that maximize performance
 
-## `Step 08. Model Training`
+## `Step 08. Hyperparameter Fine Tuning`
 * Training the models with the best parameters found and measuring their performance
 
 ## `Step 09. Cluster Analysis`
