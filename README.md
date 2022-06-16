@@ -12,7 +12,7 @@ All in One Place is a multi-brand 'outlet' company that sells second-line produc
 
 ## **WHAT IS THE BUSINESS PROBLEM?**
 
-In just over 1 year of operation, the marketing team realized that some customers from its base buy more expensive products, with high frequency and end up contributing a significant portion of the company's revenue.
+In just over one year of operation, the marketing team realized that some customers from its base buy more expensive products, with high frequency and end up contributing a significant portion of the company's revenue.
 Based on this perception, the marketing team will launch a `loyalty program` for the best customers in the base, called `Insiders`. But the team does not have the advanced knowledge in data analysis to elect program participants.
 For this reason, the marketing team asked the data team to select a selection of eligible customers for the program, using advanced data manipulation techniques.
 
